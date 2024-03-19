@@ -216,5 +216,44 @@ a:visited{
     background: green;   
 }
 
+/* ibraheem footer */
+footer{
+    background-color: #000;
+}
+.section1{
+    padding: 0px 1.45rem;
+    display: flex;
+    background: #000000;
+}
+.subset{
+    width: 100%;
+}
+.title{
+    font-size: 20px;
+    color: #11a118;
+    font-weight: unset;
+}
+.answer{
+    font-family: verdana;
+    font-size: large;
+    color: rgb(194, 186, 186);
+}
+.section2{
+    padding: 0px 1.45rem;
+    /* color: #e01414; */
+}
 
 
+.comment{
+    color: #555555;
+}
+/* ibraheem reserved */
+.reserved{
+    background-color: rgb(116, 116, 121);
+    height: 50px;
+    border-radius: 50px;
+    padding: 20px 500px;
+}
+.reserved2{
+    color: #f4f4f4;
+}
