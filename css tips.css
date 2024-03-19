@@ -4,7 +4,7 @@
 } */
 
 body{
-    background-color:#f4f4f4;
+    background-color: burlywood;
     color: #555555;
     /* font-family: arial, helvetica, sans-serif;
     font-size: 16px;
@@ -22,16 +22,9 @@ a{
     color: #000;
 }
 
-a:hover{
-    color: red;
-}
 
 a:active{
     color: green;
-}
-
-a:visited{
-    /* color: orange; */
 }
 
 .container{
@@ -47,7 +40,7 @@ a:visited{
 }
 
 .button:hover{
-    background-color: red;
+    background-color: blue;
     color: #fff;
 }
 
